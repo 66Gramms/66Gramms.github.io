@@ -1,4 +1,8 @@
-# 66Gramms.github.io
-A small responsive, float layout page made with SASS for my online portfolio, based on Jonas.io 's course
-Available at <a href="https://66gramms.github.io">66gramms.github.io</a>
-<img src="https://i.imgur.com/UNRVsIo.png" width="100%" target="_blank">
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
